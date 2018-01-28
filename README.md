@@ -1,9 +1,11 @@
 ## Youth Official
 
-You can use the [editor on GitHub](https://github.com/vkku/youthOfficial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Youth Official is world’s first organization who guides a person through his lifetime.
+Youth Official trying to resolve all the concern’s which a person comes through in his/her life. We are
+challenging the 21 st century “School of thoughts”.
+Every person has something unique in itself. We at Youth Official help you to find out your uniqueness.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+<!--
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -35,3 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
+You got to find what you love and if not then don’t settle and keep looking for your passion.
+By: Steve Jobs
